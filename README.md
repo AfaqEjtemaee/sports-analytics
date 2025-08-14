@@ -36,4 +36,4 @@ python sb_match_analysis.py \
 
 ---
 
-**Tip:** Repeat with Hudl/Wyscout by adapting loading + pitch type (`pitch_type='wyscout'`), keeping the same analysis steps.
+

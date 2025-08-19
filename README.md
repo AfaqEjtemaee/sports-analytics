@@ -1,4 +1,4 @@
-# StatsBomb Match Analysis — Shot Map + GK xG Faced + Goal-Mouth
+### 1. # StatsBomb Match Analysis — Shot Map + GK xG Faced + Goal-Mouth
 
 This script loads a single **StatsBomb Open Data** match and produces:
 1) **Shot Map** (teams in different colors; optional flipping so each team shoots at opposite goals)
@@ -35,5 +35,9 @@ python sb_match_analysis.py \
 - **Goal-mouth:** Uses `shot_end_location` to plot placement in an 8-yard-wide, ~2.44 m high goal frame.
 
 ---
+### 2. Halftime Involvement Change
+Analysis identifying players with the biggest change in on-ball involvement between halves, visualized on a pitch.
+
+[View Project](halftime_involvement_change/README_impact_involvement_change.md)
 
 

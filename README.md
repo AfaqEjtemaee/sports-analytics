@@ -38,6 +38,6 @@ python sb_match_analysis.py \
 ### 2. Halftime Involvement Change
 Analysis identifying players with the biggest change in on-ball involvement between halves, visualized on a pitch.
 
-[View Project](halftime_involvement_change/README_impact_involvement_change.md)
+
 
 
